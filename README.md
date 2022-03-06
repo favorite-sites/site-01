@@ -8,3 +8,5 @@ https://github.com/InsightSoftwareConsortium
 
 https://keras.io/examples
 
+https://github.com/sdi1982/DirectML-DirectX-12-library-for-machine-learning
+
