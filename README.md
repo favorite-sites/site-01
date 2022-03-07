@@ -10,3 +10,9 @@ https://keras.io/examples
 
 https://github.com/sdi1982/DirectML-DirectX-12-library-for-machine-learning
 
+https://web.stanford.edu/class/cs224w/
+
+https://medium.com/coders-camp/130-python-projects-with-source-code-61f498591bb
+
+https://www.biorxiv.org/
+
