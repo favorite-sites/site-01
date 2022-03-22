@@ -1,3 +1,31 @@
+
+nature.com/nature/videos
+
+ksp.etri.re.kr/ksp/article/search
+
+pubmed.ncbi.nlm.nih.gov
+
+youtube.com/user/stanfordonline
+
+research.google
+
+openreview.net
+
+microsoft.com/en-us/research
+
+medrxiv.org
+
+dl.acm.org
+
+web.mit.edu
+
+spiedigitallibrary.org
+
+biorxiv.org
+
+proceedings.mlr.press
+
+
 # Deep-Learning
 
 // OpenAI 깃허브
