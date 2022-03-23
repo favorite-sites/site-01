@@ -1,30 +1,30 @@
 https://ipas.ieee.tn/
 
-nature.com/nature/videos
+https://nature.com/nature/videos
 
-ksp.etri.re.kr/ksp/article/search
+https://ksp.etri.re.kr/ksp/article/search
 
-pubmed.ncbi.nlm.nih.gov
+https://pubmed.ncbi.nlm.nih.gov
 
-youtube.com/user/stanfordonline
+https://youtube.com/user/stanfordonline
 
-research.google
+https://research.google
 
-openreview.net
+https://openreview.net
 
-microsoft.com/en-us/research
+https://microsoft.com/en-us/research
 
-medrxiv.org
+https://medrxiv.org
 
-dl.acm.org
+https://dl.acm.org
 
-web.mit.edu
+https://web.mit.edu
 
-spiedigitallibrary.org
+https://spiedigitallibrary.org
 
-biorxiv.org
+https://biorxiv.org
 
-proceedings.mlr.press
+https://proceedings.mlr.press
 
 
 # Deep-Learning
