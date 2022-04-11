@@ -1,3 +1,16 @@
+// 뉴스
+
+https://www.chosun.com/
+
+https://www.joongang.co.kr/
+
+https://www.hani.co.kr/arti/list.html
+
+https://www.donga.com/
+
+
+// 학회 논문
+
 https://ipas.ieee.tn/
 
 https://nature.com/nature/videos
