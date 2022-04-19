@@ -4,10 +4,13 @@ https://www.chosun.com/
 
 https://www.joongang.co.kr/
 
-https://www.hani.co.kr/arti/list.html
-
 https://www.donga.com/
 
+https://www.hani.co.kr/arti/list.html
+
+// 네셔널 지오그래픽
+
+https://www.nationalgeographic.com/
 
 // 학회 논문
 
