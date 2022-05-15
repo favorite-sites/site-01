@@ -1,3 +1,13 @@
+// 리서치
+
+https://research.google
+
+https://microsoft.com/en-us/research
+
+https://youtube.com/user/stanfordonline
+
+https://web.mit.edu
+
 // 뉴스
 
 https://www.chosun.com/
@@ -14,33 +24,27 @@ https://www.nationalgeographic.com/
 
 // 학회 논문
 
-https://ipas.ieee.tn/
-
 https://nature.com/nature/videos
 
-https://ksp.etri.re.kr/ksp/article/search
-
-https://pubmed.ncbi.nlm.nih.gov
-
-https://youtube.com/user/stanfordonline
-
-https://research.google
-
-https://openreview.net
-
-https://microsoft.com/en-us/research
-
-https://medrxiv.org
+https://ipas.ieee.tn/
 
 https://dl.acm.org
 
-https://web.mit.edu
-
 https://spiedigitallibrary.org
 
-https://biorxiv.org
+https://ksp.etri.re.kr/ksp/article/search
 
 https://proceedings.mlr.press
+
+https://www.deepmind.com/research
+
+https://openreview.net
+
+https://pubmed.ncbi.nlm.nih.gov
+
+https://medrxiv.org
+
+https://biorxiv.org
 
 
 # Deep-Learning
