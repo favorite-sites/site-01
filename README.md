@@ -4,6 +4,8 @@ https://research.google
 
 https://microsoft.com/en-us/research
 
+https://pll.harvard.edu/catalog/free
+
 https://youtube.com/user/stanfordonline
 
 https://web.mit.edu
