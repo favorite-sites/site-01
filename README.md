@@ -8,7 +8,7 @@ https://pll.harvard.edu/catalog/free
 
 https://youtube.com/user/stanfordonline
 
-https://web.mit.edu
+https://openlearning.mit.edu/courses-programs/mitx-courses
 
 // 뉴스
 
