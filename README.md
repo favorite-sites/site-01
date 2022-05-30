@@ -83,6 +83,6 @@ https://medium.com/coders-camp/130-python-projects-with-source-code-61f498591bb
 
 https://www.biorxiv.org/
 
-// 부스 Math 라이브러리
+// 부스트 Math 라이브러리
 
 https://valelab4.ucsf.edu/svn/3rdpartypublic/boost/libs/libraries.htm
