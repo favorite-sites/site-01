@@ -1,3 +1,13 @@
+// 뉴스
+
+https://www.chosun.com/
+
+https://www.joongang.co.kr/
+
+https://www.donga.com/
+
+https://www.hani.co.kr/arti/list.html
+
 // 리서치
 
 https://research.google
@@ -9,20 +19,6 @@ https://pll.harvard.edu/catalog/free
 https://youtube.com/user/stanfordonline
 
 https://openlearning.mit.edu/courses-programs/mitx-courses
-
-// 뉴스
-
-https://www.chosun.com/
-
-https://www.joongang.co.kr/
-
-https://www.donga.com/
-
-https://www.hani.co.kr/arti/list.html
-
-// 네셔널 지오그래픽
-
-https://www.nationalgeographic.com/
 
 // 학회 논문
 
@@ -42,12 +38,20 @@ https://www.deepmind.com/research
 
 https://openreview.net
 
+
+// 네셔널 지오그래픽
+
+https://www.nationalgeographic.com/
+
 https://pubmed.ncbi.nlm.nih.gov
 
 https://medrxiv.org
 
 https://biorxiv.org
 
+// 서울대 언어교육원
+
+https://lei.snu.ac.kr/mobile/kr/lerc/articleSeDo/articleSeDo.jsp
 
 # Deep-Learning
 
