@@ -2,7 +2,7 @@
 
 https://www.itworld.co.kr/main/
 
-https://www.zdnet.com/
+https://zdnet.co.kr/
 
 https://www.chosun.com/
 
