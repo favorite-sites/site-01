@@ -1,5 +1,9 @@
 // 뉴스
 
+https://www.itworld.co.kr/main/
+
+https://www.zdnet.com/
+
 https://www.chosun.com/
 
 https://www.joongang.co.kr/
@@ -43,11 +47,15 @@ https://openreview.net
 
 https://www.nationalgeographic.com/
 
+// 메디퍼브
+
 https://pubmed.ncbi.nlm.nih.gov
 
 https://medrxiv.org
 
-https://biorxiv.org
+// 생명공학 라이브러리
+
+https://www.biorxiv.org/
 
 // 서울대 언어교육원
 
@@ -82,10 +90,6 @@ https://web.stanford.edu/class/cs224w/
 // 파이썬 예제
 
 https://medium.com/coders-camp/130-python-projects-with-source-code-61f498591bb
-
-// 생명공학 라이브러리
-
-https://www.biorxiv.org/
 
 // 부스트 Math 라이브러리
 
