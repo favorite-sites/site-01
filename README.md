@@ -47,6 +47,9 @@ https://openreview.net
 
 https://www.nationalgeographic.com/
 
+// 뉴튼 단행본
+http://www.yes24.com/Product/Search?domain=ALL&query=NEWTON
+
 // 메디퍼브
 
 https://pubmed.ncbi.nlm.nih.gov
