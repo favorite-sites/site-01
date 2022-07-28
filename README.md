@@ -26,8 +26,6 @@ https://openlearning.mit.edu/courses-programs/mitx-courses
 
 // 학회 논문
 
-https://nature.com/nature/videos
-
 https://ipas.ieee.tn/
 
 https://dl.acm.org
@@ -50,6 +48,10 @@ https://www.nationalgeographic.com/
 // 뉴튼 단행본
 
 http://www.yes24.com/Product/Search?domain=ALL&query=NEWTON
+
+// 네이처 저널
+
+https://nature.com/nature/videos
 
 // 메디퍼브
 
