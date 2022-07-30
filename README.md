@@ -8,6 +8,16 @@ https://www.donga.com/
 
 https://www.hani.co.kr/arti/list.html
 
+// 경제 뉴스
+
+https://www.hankyung.com/
+
+https://www.getnews.co.kr/
+
+https://m.sedaily.com/
+
+https://m.sedaily.com/
+
 // IT뉴스
 
 https://www.itworld.co.kr/main/
