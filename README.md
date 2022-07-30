@@ -1,9 +1,5 @@
 // 뉴스
 
-https://www.itworld.co.kr/main/
-
-https://zdnet.co.kr/
-
 https://www.chosun.com/
 
 https://www.joongang.co.kr/
@@ -12,7 +8,13 @@ https://www.donga.com/
 
 https://www.hani.co.kr/arti/list.html
 
-// 리서치
+// IT뉴스
+
+https://www.itworld.co.kr/main/
+
+https://zdnet.co.kr/
+
+// IT 리서치
 
 https://research.google
 
@@ -44,6 +46,10 @@ https://openreview.net
 // 네셔널 지오그래픽
 
 https://www.nationalgeographic.com/
+
+// 네이처지
+
+https://www.nature.com/
 
 // 뉴튼 단행본
 
