@@ -49,6 +49,10 @@ https://www.nationalgeographic.com/
 
 http://www.yes24.com/Product/Search?domain=ALL&query=(%ec%a3%bc)%ec%95%84%ec%9d%b4%eb%89%b4%ed%84%b4&mkEntrNo=222845
 
+// 뉴턴 하이라이트 전권
+
+http://www.yes24.com/Product/Goods/64430444
+
 // 네이처 저널
 
 https://nature.com/nature/videos
