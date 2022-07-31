@@ -87,7 +87,7 @@ https://www.biorxiv.org/
 
 https://lei.snu.ac.kr/mobile/kr/lerc/articleSeDo/articleSeDo.jsp
 
-# Deep-Learning
+# Software Programming
 
 // OpenAI 깃허브
 
