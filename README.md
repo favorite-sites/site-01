@@ -61,7 +61,7 @@ https://www.nationalgeographic.com/
 
 https://www.nature.com/
 
-// 뉴튼 단행본
+// 뉴턴 단행본
 
 http://www.yes24.com/Product/Search?domain=ALL&query=(%ec%a3%bc)%ec%95%84%ec%9d%b4%eb%89%b4%ed%84%b4&mkEntrNo=222845
 
