@@ -8,13 +8,15 @@ https://www.donga.com/
 
 https://www.hani.co.kr/arti/list.html
 
+// 삼성 경제연구소
+
+https://samsungsgr.com/sgr/#
+
 // 경제 뉴스
 
 https://www.hankyung.com/
 
 https://www.getnews.co.kr/
-
-https://m.sedaily.com/
 
 https://m.sedaily.com/
 
