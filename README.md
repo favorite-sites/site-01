@@ -89,6 +89,10 @@ https://www.biorxiv.org/
 
 https://lei.snu.ac.kr/mobile/kr/lerc/articleSeDo/articleSeDo.jsp
 
+// 스탠포드 NLP 트랜스포머
+
+https://web.stanford.edu/class/cs25/?fbclid=IwAR2wehn4OHGVkdvVVgF1fySUxQYrOAeAjmOWGk19HluGAr6h3jRYqDjjW-Y
+
 # Software Programming
 
 // OpenAI 깃허브
