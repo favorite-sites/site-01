@@ -8,14 +8,6 @@ https://www.donga.com/
 
 https://www.hani.co.kr/arti/list.html
 
-// 삼성 경제연구소
-
-https://samsungsgr.com/sgr/#
-
-// 울산대 법학
-
-http://www.kocw.net/home/search/search.do?query=%EB%B2%95%ED%95%99
-
 // 경제 뉴스
 
 https://www.hankyung.com/
@@ -29,6 +21,15 @@ https://m.sedaily.com/
 https://www.itworld.co.kr/main/
 
 https://zdnet.co.kr/
+
+// 삼성 경제연구소
+
+https://samsungsgr.com/sgr/#
+
+// 울산대 법학
+
+http://www.kocw.net/home/search/search.do?query=%EB%B2%95%ED%95%99
+
 
 // IT 리서치
 
