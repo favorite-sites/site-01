@@ -131,3 +131,8 @@ https://medium.com/coders-camp/130-python-projects-with-source-code-61f498591bb
 // 부스트 Math 라이브러리
 
 https://valelab4.ucsf.edu/svn/3rdpartypublic/boost/libs/libraries.htm
+
+// KOCW 빅데이터 강의
+
+http://www.kocw.net/home/search/search.do
+
