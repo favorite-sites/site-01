@@ -26,11 +26,6 @@ https://zdnet.co.kr/
 
 https://samsungsgr.com/sgr/#
 
-// 울산대 법학
-
-http://www.kocw.net/home/search/search.do?query=%EB%B2%95%ED%95%99
-
-
 // IT 리서치
 
 https://research.google
@@ -90,6 +85,8 @@ https://medrxiv.org
 
 https://www.biorxiv.org/
 
+# NLP
+
 // 서울대 언어교육원
 
 https://lei.snu.ac.kr/mobile/kr/lerc/articleSeDo/articleSeDo.jsp
@@ -98,11 +95,7 @@ https://lei.snu.ac.kr/mobile/kr/lerc/articleSeDo/articleSeDo.jsp
 
 https://web.stanford.edu/class/cs25/?fbclid=IwAR2wehn4OHGVkdvVVgF1fySUxQYrOAeAjmOWGk19HluGAr6h3jRYqDjjW-Y
 
-# Software Programming
-
-// OpenAI 깃허브
-
-https://github.com/orgs/openai/repositories?type=all
+# IACT
 
 // 3D프린팅 어썸
 
@@ -111,28 +104,4 @@ https://github.com/ad-si/awesome-3d-printing
 // 의료영상처리 ITK툴킷 
 
 https://github.com/InsightSoftwareConsortium
-
-// 케라스 예제
-
-https://keras.io/examples
-
-// 다이렉트엑스12 머신러닝
-
-https://github.com/sdi1982/DirectML-DirectX-12-library-for-machine-learning
-
-// 스탠퍼드 그래프 ML 수업자료
-
-https://web.stanford.edu/class/cs224w/
-
-// 파이썬 예제
-
-https://medium.com/coders-camp/130-python-projects-with-source-code-61f498591bb
-
-// 부스트 Math 라이브러리
-
-https://valelab4.ucsf.edu/svn/3rdpartypublic/boost/libs/libraries.htm
-
-// KOCW 빅데이터 강의
-
-http://www.kocw.net/home/search/search.do
 
