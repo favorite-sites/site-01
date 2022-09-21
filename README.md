@@ -89,7 +89,7 @@ https://medrxiv.org
 
 https://www.biorxiv.org/
 
-// National Center for Biotechnology Information
+// 미국 국립 바이오테크 정보 센터
 
 https://www.ncbi.nlm.nih.gov/
 
