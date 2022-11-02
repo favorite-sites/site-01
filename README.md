@@ -63,9 +63,17 @@ https://openreview.net
 
 https://www.nationalgeographic.com/
 
+// 울프람
+
+https://www.wolfram.com/?source=nav
+
 // 네이처지
 
 https://www.nature.com/
+
+// 네이처 비디오
+
+https://nature.com/nature/videos
 
 // 뉴턴 단행본
 
@@ -74,10 +82,6 @@ http://www.yes24.com/Product/Search?domain=ALL&query=(%ec%a3%bc)%ec%95%84%ec%9d%
 // 뉴턴 하이라이트 전권
 
 http://www.yes24.com/Product/Goods/64430444
-
-// 네이처 저널
-
-https://nature.com/nature/videos
 
 // 메디퍼브
 
