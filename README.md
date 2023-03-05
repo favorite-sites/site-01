@@ -97,6 +97,11 @@ https://www.biorxiv.org/
 
 https://www.ncbi.nlm.nih.gov/
 
+// Machine learning and AI for medicine
+
+https://www.vanderschaar-lab.com/
+
+
 # NLP
 
 // 서울대 언어교육원
