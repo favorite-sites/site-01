@@ -6,6 +6,10 @@ https://cs.android.com/?hl=ko
 
 https://www.tensorflow.org/?hl=ko
 
+// 케라스 사이트
+
+https://keras.io/
+
 // 뉴스
 
 https://www.chosun.com/
