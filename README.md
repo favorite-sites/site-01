@@ -1,3 +1,11 @@
+// 안드로이드 소스
+
+https://cs.android.com/?hl=ko
+
+// 텐서플로우 가이드
+
+https://www.tensorflow.org/?hl=ko
+
 // 뉴스
 
 https://www.chosun.com/
