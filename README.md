@@ -10,6 +10,10 @@ https://www.tensorflow.org/?hl=ko
 
 https://keras.io/
 
+// 시그라프 프로시딩
+
+https://dl.acm.org/conference/siggraph/proceedings
+
 // 뉴스
 
 https://www.chosun.com/
