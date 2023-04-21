@@ -6,6 +6,10 @@ https://cs.android.com/?hl=ko
 
 https://www.tensorflow.org/?hl=ko
 
+// 캐글 코드
+
+https://www.kaggle.com/code
+
 // 케라스 사이트
 
 https://keras.io/
