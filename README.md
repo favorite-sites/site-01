@@ -52,6 +52,8 @@ https://www.kocca.kr/kocca/main.do
 
 // IT 리서치
 
+https://www.youtube.com/@GoogleDevelopers
+
 https://research.google
 
 https://github.com/google-research/google-research
