@@ -52,11 +52,13 @@ https://www.kocca.kr/kocca/main.do
 
 // IT 리서치
 
-https://www.youtube.com/@GoogleDevelopers
+https://www.youtube.com/@GoogleDevelopers // 구글 IO
 
 https://research.google
 
 https://github.com/google-research/google-research
+
+https://www.youtube.com/@MicrosoftTechCommunity // 마이크로 소프트 테크 커뮤니티
 
 https://microsoft.com/en-us/research
 
