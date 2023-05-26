@@ -14,6 +14,10 @@ https://www.kaggle.com/code
 
 https://keras.io/
 
+// 오픈AI
+
+https://platform.openai.com/examples
+
 // 시그라프 프로시딩
 
 https://dl.acm.org/conference/siggraph/proceedings
