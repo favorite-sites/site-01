@@ -1,3 +1,11 @@
+// 네이버 클라우드 플랫폼
+
+https://www.ncloud.com/product
+
+// KT 클라우드 플랫폼
+
+https://cloud.kt.com/product/
+
 // 안드로이드 소스
 
 https://cs.android.com/?hl=ko
