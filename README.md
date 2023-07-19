@@ -1,3 +1,28 @@
+// 경제 뉴스
+https://www.mk.co.kr/
+
+https://www.hankyung.com/
+
+https://www.getnews.co.kr/
+
+https://m.sedaily.com/
+
+// IT뉴스
+
+https://www.itworld.co.kr/main/
+
+https://zdnet.co.kr/
+
+// 뉴스
+
+https://www.chosun.com/
+
+https://www.joongang.co.kr/
+
+https://www.donga.com/
+
+https://www.hani.co.kr/arti/list.html
+
 // 네이버 클라우드 플랫폼
 
 https://www.ncloud.com/product
@@ -29,30 +54,6 @@ https://platform.openai.com/examples
 // 시그라프 프로시딩
 
 https://dl.acm.org/conference/siggraph/proceedings
-
-// 뉴스
-
-https://www.chosun.com/
-
-https://www.joongang.co.kr/
-
-https://www.donga.com/
-
-https://www.hani.co.kr/arti/list.html
-
-// 경제 뉴스
-
-https://www.hankyung.com/
-
-https://www.getnews.co.kr/
-
-https://m.sedaily.com/
-
-// IT뉴스
-
-https://www.itworld.co.kr/main/
-
-https://zdnet.co.kr/
 
 // 삼성 경제연구소
 
